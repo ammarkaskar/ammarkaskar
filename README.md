@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **AI Documentation project**
 
-- 🌱 I'm currently learning **Flutter**
+- 🌱 I'm currently learning **Flutter**,**AWS**
 
 - 👯 I'm looking to collaborate on **open source project**
 
